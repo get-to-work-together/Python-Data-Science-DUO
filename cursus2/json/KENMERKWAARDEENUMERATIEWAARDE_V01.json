@@ -1,0 +1,418 @@
+{
+  "numberOfElements": 43,
+  "elementsPerProject": [
+    {
+      "projectName": "DUO_Gegevenswoordenboek.MASTER",
+      "numberOfElements": 1
+    },
+    {
+      "projectName": "Testingmigrate REST.MASTER",
+      "numberOfElements": 3
+    },
+    {
+      "projectName": "DUO_SSD_Voorbeeldapplicatie.MASTER",
+      "numberOfElements": 1
+    },
+    {
+      "projectName": "DUO_DataModel_Boek.MASTER",
+      "numberOfElements": 1
+    },
+    {
+      "projectName": "DUO_Service- en Berichtenboek.MASTER",
+      "numberOfElements": 34
+    },
+    {
+      "projectName": "Speeltuin_GWB.MASTER",
+      "numberOfElements": 3
+    }
+  ],
+  "elements": [
+    {
+      "elementName": "waarde",
+      "typeName": "KenmerkwaardeEnumeratiewaarde-v01",
+      "projectName": "DUO_Service- en Berichtenboek.MASTER",
+      "workspace": "Generieke modules",
+      "stereoTypeName": null,
+      "useCase": null,
+      "location": "DUO_Service- en Berichtenboek.MASTER::DUO_Service- en Berichtenboek::DUO_Service- en Berichtenboek::OpenAPI_REST Services::RIO Registratie Instellingen en opleidingen (REST)::LEO GUI REST test::RIO_LEO::SourceModel::waardenlijst::waarde"
+    },
+    {
+      "elementName": "enumeratiewaarde",
+      "typeName": "KenmerkwaardeEnumeratiewaarde-v01",
+      "projectName": "DUO_Gegevenswoordenboek.MASTER",
+      "workspace": "CentraalDataManagement (CDM)",
+      "stereoTypeName": null,
+      "useCase": null,
+      "location": "DUO_Gegevenswoordenboek.MASTER::DUO Gegevenswoordenboek::DUO_Gegevenswoordenboek::NL:OCW:GWB:BASIS::Meta::Groep::Kenmerk::enumeratiewaarde"
+    },
+    {
+      "elementName": "waardenlijst",
+      "typeName": "KenmerkwaardeEnumeratiewaarde-v01",
+      "projectName": "DUO_Service- en Berichtenboek.MASTER",
+      "workspace": "Generieke modules",
+      "stereoTypeName": null,
+      "useCase": null,
+      "location": "DUO_Service- en Berichtenboek.MASTER::DUO_Service- en Berichtenboek::DUO_Service- en Berichtenboek::OpenAPI_REST Services::RIO Registratie Instellingen en opleidingen (REST)::LEO GUI REST test::RIO_LEO::SourceModel::Algemeen::ChoiceKenmerkwaarde::waardenlijst"
+    },
+    {
+      "elementName": "waardenlijst",
+      "typeName": "KenmerkwaardeEnumeratiewaarde-v01",
+      "projectName": "DUO_Service- en Berichtenboek.MASTER",
+      "workspace": "Generieke modules",
+      "stereoTypeName": null,
+      "useCase": null,
+      "location": "DUO_Service- en Berichtenboek.MASTER::DUO_Service- en Berichtenboek::DUO_Service- en Berichtenboek::Services::Registratie instellingen en opleidingen (RIO)::VZP_Update::Groep::Algemeen::ChoiceKenmerkwaarde::waardenlijst"
+    },
+    {
+      "elementName": "waardenlijst",
+      "typeName": "KenmerkwaardeEnumeratiewaarde-v01",
+      "projectName": "DUO_Service- en Berichtenboek.MASTER",
+      "workspace": "Generieke modules",
+      "stereoTypeName": null,
+      "useCase": null,
+      "location": "DUO_Service- en Berichtenboek.MASTER::DUO_Service- en Berichtenboek::DUO_Service- en Berichtenboek::Services::GM_Gegevensmagazijn_V2::GM_Werkvoorraadbeheer (WVB)::GM_WVB::Groep::Kenmerk::waardenlijst"
+    },
+    {
+      "elementName": "waardenlijst",
+      "typeName": "KenmerkwaardeEnumeratiewaarde-v01",
+      "projectName": "DUO_Service- en Berichtenboek.MASTER",
+      "workspace": "Generieke modules",
+      "stereoTypeName": null,
+      "useCase": null,
+      "location": "DUO_Service- en Berichtenboek.MASTER::DUO_Service- en Berichtenboek::DUO_Service- en Berichtenboek::Services::GM_Gegevensmagazijn_V2::Zandbakken_en_speeltuinen::Zandbak Klaas::RIO_Klaas::RIO_Klaas_V1::Berichttypen::Groep::Kenmerk::waardenlijst"
+    },
+    {
+      "elementName": "kenmerkwaardeEnumeratiewaarde",
+      "typeName": "KenmerkwaardeEnumeratiewaarde-v01",
+      "projectName": "DUO_Service- en Berichtenboek.MASTER",
+      "workspace": "Generieke modules",
+      "stereoTypeName": null,
+      "useCase": null,
+      "location": "DUO_Service- en Berichtenboek.MASTER::DUO_Service- en Berichtenboek::DUO_Service- en Berichtenboek::Services::GM_Gegevensmagazijn_V2::Zandbakken_en_speeltuinen::Zandbak Glenn::GM_OpvragenBevoegdGezag::Groep::Kenmerk::kenmerkwaardeEnumeratiewaarde"
+    },
+    {
+      "elementName": "waardenlijst",
+      "typeName": "KenmerkwaardeEnumeratiewaarde-v01",
+      "projectName": "DUO_Service- en Berichtenboek.MASTER",
+      "workspace": "Generieke modules",
+      "stereoTypeName": null,
+      "useCase": null,
+      "location": "DUO_Service- en Berichtenboek.MASTER::DUO_Service- en Berichtenboek::DUO_Service- en Berichtenboek::Services::Niet Natuurlijk Persoon (NNP)::NNP_REST_Beheer::NNP_Rest::Groep::Algemeen::Kenmerk::waardenlijst"
+    },
+    {
+      "elementName": "waardenlijst",
+      "typeName": "KenmerkwaardeEnumeratiewaarde-v01",
+      "projectName": "DUO_Service- en Berichtenboek.MASTER",
+      "workspace": "Generieke modules",
+      "stereoTypeName": null,
+      "useCase": null,
+      "location": "DUO_Service- en Berichtenboek.MASTER::DUO_Service- en Berichtenboek::DUO_Service- en Berichtenboek::Services::GM_Gegevensmagazijn_V2::Zandbakken_en_speeltuinen::Zandbak Glenn::GM_AangebodenOpleidingCohorten::Groep::Kenmerk::waardenlijst"
+    },
+    {
+      "elementName": "waardenlijst",
+      "typeName": "KenmerkwaardeEnumeratiewaarde-v01",
+      "projectName": "DUO_Service- en Berichtenboek.MASTER",
+      "workspace": "Generieke modules",
+      "stereoTypeName": null,
+      "useCase": null,
+      "location": "DUO_Service- en Berichtenboek.MASTER::DUO_Service- en Berichtenboek::DUO_Service- en Berichtenboek::Services::GM_Gegevensmagazijn_V2::Zandbakken_en_speeltuinen::Zandbak Peter::ZP_RIO::ZP_RIO_V1::Groep::Kenmerk::waardenlijst"
+    },
+    {
+      "elementName": "waardenlijst",
+      "typeName": "KenmerkwaardeEnumeratiewaarde-v01",
+      "projectName": "DUO_Service- en Berichtenboek.MASTER",
+      "workspace": "Generieke modules",
+      "stereoTypeName": null,
+      "useCase": null,
+      "location": "DUO_Service- en Berichtenboek.MASTER::DUO_Service- en Berichtenboek::DUO_Service- en Berichtenboek::Services::GM_Gegevensmagazijn_V2::Zandbakken_en_speeltuinen::Zandbak Bart::RIO_zandbak::RIO_zandbak::Kenmerk::waardenlijst"
+    },
+    {
+      "elementName": "waardenlijst",
+      "typeName": "KenmerkwaardeEnumeratiewaarde-v01",
+      "projectName": "DUO_Service- en Berichtenboek.MASTER",
+      "workspace": "Generieke modules",
+      "stereoTypeName": null,
+      "useCase": null,
+      "location": "DUO_Service- en Berichtenboek.MASTER::DUO_Service- en Berichtenboek::DUO_Service- en Berichtenboek::Services::GM_Gegevensmagazijn_V2::GM_SHARED::GM_Shared::Berichttypen::GM_Shared_V1::Groep::Kenmerk::waardenlijst"
+    },
+    {
+      "elementName": "waardenlijst",
+      "typeName": "KenmerkwaardeEnumeratiewaarde-v01",
+      "projectName": "DUO_Service- en Berichtenboek.MASTER",
+      "workspace": "Generieke modules",
+      "stereoTypeName": null,
+      "useCase": null,
+      "location": "DUO_Service- en Berichtenboek.MASTER::DUO_Service- en Berichtenboek::DUO_Service- en Berichtenboek::Services::GM_Gegevensmagazijn_V2::Resources::GM_Registratie Instellingen en Opleidingen (RIO)::GM_RIO::GM_RIO_V1::Groep::Kenmerk::waardenlijst"
+    },
+    {
+      "elementName": "waardenlijst",
+      "typeName": "KenmerkwaardeEnumeratiewaarde-v01",
+      "projectName": "DUO_Service- en Berichtenboek.MASTER",
+      "workspace": "Generieke modules",
+      "stereoTypeName": null,
+      "useCase": null,
+      "location": "DUO_Service- en Berichtenboek.MASTER::DUO_Service- en Berichtenboek::DUO_Service- en Berichtenboek::Services::GM_Gegevensmagazijn_V2::GM_POStatustoekenning (POST)::GM_POST::Groep::Kenmerk::waardenlijst"
+    },
+    {
+      "elementName": "waardenlijst",
+      "typeName": "KenmerkwaardeEnumeratiewaarde-v01",
+      "projectName": "DUO_Service- en Berichtenboek.MASTER",
+      "workspace": "Generieke modules",
+      "stereoTypeName": null,
+      "useCase": null,
+      "location": "DUO_Service- en Berichtenboek.MASTER::DUO_Service- en Berichtenboek::DUO_Service- en Berichtenboek::Services::GM_Gegevensmagazijn_V2::GM_VO (VO)::GM_VO::Groep::Kenmerk::waardenlijst"
+    },
+    {
+      "elementName": "naam",
+      "typeName": "KenmerkwaardeEnumeratiewaarde-v01",
+      "projectName": "DUO_Service- en Berichtenboek.MASTER",
+      "workspace": "Generieke modules",
+      "stereoTypeName": null,
+      "useCase": null,
+      "location": "DUO_Service- en Berichtenboek.MASTER::DUO_Service- en Berichtenboek::DUO_Service- en Berichtenboek::Services::Registratie instellingen en opleidingen (RIO)::RIO_Waardenlijst::Berichttypen::RIO_Waardenlijst_V1::Groep::Waarde::naam"
+    },
+    {
+      "elementName": "waardenlijst",
+      "typeName": "KenmerkwaardeEnumeratiewaarde-v01",
+      "projectName": "DUO_Service- en Berichtenboek.MASTER",
+      "workspace": "Generieke modules",
+      "stereoTypeName": null,
+      "useCase": null,
+      "location": "DUO_Service- en Berichtenboek.MASTER::DUO_Service- en Berichtenboek::DUO_Service- en Berichtenboek::Services::Registratie instellingen en opleidingen (RIO)::RIO_REST_Beheer::RIO_Rest::Groep::Algemeen::Kenmerk::waardenlijst"
+    },
+    {
+      "elementName": "waardenlijst",
+      "typeName": "KenmerkwaardeEnumeratiewaarde-v01",
+      "projectName": "DUO_Service- en Berichtenboek.MASTER",
+      "workspace": "Generieke modules",
+      "stereoTypeName": null,
+      "useCase": null,
+      "location": "DUO_Service- en Berichtenboek.MASTER::DUO_Service- en Berichtenboek::DUO_Service- en Berichtenboek::Services::Registratie instellingen en opleidingen (RIO)::RIO_Vakken en Groepen (voor JSON)::Groep::Kenmerk::waardenlijst"
+    },
+    {
+      "elementName": "kenmerkwaardeEnumeratiewaarde",
+      "typeName": "KenmerkwaardeEnumeratiewaarde-v01",
+      "projectName": "DUO_Service- en Berichtenboek.MASTER",
+      "workspace": "Generieke modules",
+      "stereoTypeName": null,
+      "useCase": null,
+      "location": "DUO_Service- en Berichtenboek.MASTER::DUO_Service- en Berichtenboek::DUO_Service- en Berichtenboek::Services::GM_Gegevensmagazijn_V2::GM_Registratie Instellingen en Opleidingen (RIOT)::GM_RIOT::Berichttypen::Groep::Kenmerk::kenmerkwaardeEnumeratiewaarde"
+    },
+    {
+      "elementName": "opleidingssamenwerking",
+      "typeName": "KenmerkwaardeEnumeratiewaarde-v01",
+      "projectName": "DUO_Service- en Berichtenboek.MASTER",
+      "workspace": "Generieke modules",
+      "stereoTypeName": null,
+      "useCase": null,
+      "location": "DUO_Service- en Berichtenboek.MASTER::DUO_Service- en Berichtenboek::DUO_Service- en Berichtenboek::Services::GM_Gegevensmagazijn_V2::GM_Registratie Instellingen en Opleidingen (RIOT)::GM_RIOT::Berichttypen::OpvragenOpleidingseenhedenNNP_V1_Request::opleidingssamenwerking"
+    },
+    {
+      "elementName": "enumeratiewaarde",
+      "typeName": "KenmerkwaardeEnumeratiewaarde-v01",
+      "projectName": "Speeltuin_GWB.MASTER",
+      "workspace": "Tutorial",
+      "stereoTypeName": null,
+      "useCase": null,
+      "location": "Speeltuin_GWB.MASTER::Systemmodule::Speeltuin_GWB::DUO_Gegevenswoordenboek versie dd 10-12-2024::NL:OCW:GWB:BASIS::Meta::Groep::Kenmerk::enumeratiewaarde"
+    },
+    {
+      "elementName": "enumeratiewaarde",
+      "typeName": "KenmerkwaardeEnumeratiewaarde-v01",
+      "projectName": "Speeltuin_GWB.MASTER",
+      "workspace": "Tutorial",
+      "stereoTypeName": null,
+      "useCase": null,
+      "location": "Speeltuin_GWB.MASTER::Systemmodule::Speeltuin_GWB::Elsbeth::Meta::Groep::Kenmerk::enumeratiewaarde"
+    },
+    {
+      "elementName": "waarde",
+      "typeName": "KenmerkwaardeEnumeratiewaarde-v01",
+      "projectName": "DUO_Service- en Berichtenboek.MASTER",
+      "workspace": "Generieke modules",
+      "stereoTypeName": null,
+      "useCase": null,
+      "location": "DUO_Service- en Berichtenboek.MASTER::DUO_Service- en Berichtenboek::DUO_Service- en Berichtenboek::OpenAPI_REST Services::RMA::RMA GUI::Sourcemodel::waardenlijst::waarde"
+    },
+    {
+      "elementName": "waardenlijst",
+      "typeName": "KenmerkwaardeEnumeratiewaarde-v01",
+      "projectName": "DUO_Service- en Berichtenboek.MASTER",
+      "workspace": "Generieke modules",
+      "stereoTypeName": null,
+      "useCase": null,
+      "location": "DUO_Service- en Berichtenboek.MASTER::DUO_Service- en Berichtenboek::DUO_Service- en Berichtenboek::GBM - Meldingen::RIO_Melding::Groep::Algemeen::ChoiceKenmerkwaarde::waardenlijst"
+    },
+    {
+      "elementName": "waardenlijst",
+      "typeName": "KenmerkwaardeEnumeratiewaarde-v01",
+      "projectName": "DUO_Service- en Berichtenboek.MASTER",
+      "workspace": "Generieke modules",
+      "stereoTypeName": null,
+      "useCase": null,
+      "location": "DUO_Service- en Berichtenboek.MASTER::DUO_Service- en Berichtenboek::DUO_Service- en Berichtenboek::Services::GM_Gegevensmagazijn_V2::GM_HogerOnderwijs (HO)::GM_HogerOnderwijs::Groep::Kenmerk::waardenlijst"
+    },
+    {
+      "elementName": "waardenlijst",
+      "typeName": "KenmerkwaardeEnumeratiewaarde-v01",
+      "projectName": "DUO_Service- en Berichtenboek.MASTER",
+      "workspace": "Generieke modules",
+      "stereoTypeName": null,
+      "useCase": null,
+      "location": "DUO_Service- en Berichtenboek.MASTER::DUO_Service- en Berichtenboek::DUO_Service- en Berichtenboek::Services::GM_Gegevensmagazijn_V2::GM_Aanvragen Beslissen Lerarenbeurs (ABL)::GM_ABL::Berichttypen::GM_ABL_V1::Groep::Kenmerk::waardenlijst"
+    },
+    {
+      "elementName": "enumeratiewaarde",
+      "typeName": "KenmerkwaardeEnumeratiewaarde-v01",
+      "projectName": "Speeltuin_GWB.MASTER",
+      "workspace": "Tutorial",
+      "stereoTypeName": null,
+      "useCase": null,
+      "location": "Speeltuin_GWB.MASTER::Systemmodule::Speeltuin_GWB::Engelien::Meta::Groep::Kenmerk::enumeratiewaarde"
+    },
+    {
+      "elementName": "kenmerkwaardeEnumeratiewaarde",
+      "typeName": "KenmerkwaardeEnumeratiewaarde-v01",
+      "projectName": "DUO_Service- en Berichtenboek.MASTER",
+      "workspace": "Generieke modules",
+      "stereoTypeName": null,
+      "useCase": null,
+      "location": "DUO_Service- en Berichtenboek.MASTER::DUO_Service- en Berichtenboek::DUO_Service- en Berichtenboek::Services::Registratie instellingen en opleidingen (RIO)::DUO services::RIO Onderwijsaanbod::Raadplegen::DUO_RIO_Raadplegen_Onderwijsaanbod_V1::Berichttypen (request)::DUO_RIO_Raadplegen_Onderwijsaanbod_V1::Groep::Custom_objecten::ChoiceKenmerkwaarde::kenmerkwaardeEnumeratiewaarde"
+    },
+    {
+      "elementName": "kenmerkwaardeEnumeratiewaarde",
+      "typeName": "KenmerkwaardeEnumeratiewaarde-v01",
+      "projectName": "DUO_Service- en Berichtenboek.MASTER",
+      "workspace": "Generieke modules",
+      "stereoTypeName": null,
+      "useCase": null,
+      "location": "DUO_Service- en Berichtenboek.MASTER::DUO_Service- en Berichtenboek::DUO_Service- en Berichtenboek::Services::Registratie instellingen en opleidingen (RIO)::DUO services::RIO Scholingsregister::STAP 2.0::DUO_RIO_Raadplegen_Scholingsregister_V1::Berichttypen (request)::DUO_RIO_Raadplegen_Scholingsregister_V1::Groep::Custom_objecten::ChoiceKenmerkwaarde::kenmerkwaardeEnumeratiewaarde"
+    },
+    {
+      "elementName": "kenmerkwaardeEnumeratiewaarde",
+      "typeName": "KenmerkwaardeEnumeratiewaarde-v01",
+      "projectName": "DUO_Service- en Berichtenboek.MASTER",
+      "workspace": "Generieke modules",
+      "stereoTypeName": null,
+      "useCase": null,
+      "location": "DUO_Service- en Berichtenboek.MASTER::DUO_Service- en Berichtenboek::DUO_Service- en Berichtenboek::Services::Registratie instellingen en opleidingen (RIO)::DUO services::RIO Scholingsregister::STAP 1.0::DUO_RIO_Raadplegen_Scholingsregister_V1::Berichttypen (request)::DUO_RIO_Raadplegen_Scholingsregister_V1::Groep::Custom_objecten::ChoiceKenmerkwaarde::kenmerkwaardeEnumeratiewaarde"
+    },
+    {
+      "elementName": "waardenlijst",
+      "typeName": "KenmerkwaardeEnumeratiewaarde-v01",
+      "projectName": "DUO_Service- en Berichtenboek.MASTER",
+      "workspace": "Generieke modules",
+      "stereoTypeName": null,
+      "useCase": null,
+      "location": "DUO_Service- en Berichtenboek.MASTER::DUO_Service- en Berichtenboek::DUO_Service- en Berichtenboek::Services::GM_Gegevensmagazijn_V2::GM_PO (PO)::GM_PO::Groep::Kenmerk::waardenlijst"
+    },
+    {
+      "elementName": "kenmerkwaardeEnumeratiewaarde",
+      "typeName": "KenmerkwaardeEnumeratiewaarde-v01",
+      "projectName": "DUO_Service- en Berichtenboek.MASTER",
+      "workspace": "Generieke modules",
+      "stereoTypeName": null,
+      "useCase": null,
+      "location": "DUO_Service- en Berichtenboek.MASTER::DUO_Service- en Berichtenboek::DUO_Service- en Berichtenboek::Services::Registratie instellingen en opleidingen (RIO)::DUO services::RIO OnderwijsOrganisatie::Beheren::DUO_RIO_Beheren_OnderwijsOrganisatie_V2::Berichttypen (request)::DUO_RIO_Beheren_OnderwijsOrganisatie_V2::Groep::Custom_objecten::ChoiceKenmerkwaarde::kenmerkwaardeEnumeratiewaarde"
+    },
+    {
+      "elementName": "kenmerkwaardeEnumeratiewaarde",
+      "typeName": "KenmerkwaardeEnumeratiewaarde-v01",
+      "projectName": "DUO_Service- en Berichtenboek.MASTER",
+      "workspace": "Generieke modules",
+      "stereoTypeName": null,
+      "useCase": null,
+      "location": "DUO_Service- en Berichtenboek.MASTER::DUO_Service- en Berichtenboek::DUO_Service- en Berichtenboek::Services::Registratie instellingen en opleidingen (RIO)::DUO services::RIO OnderwijsOrganisatie::Beheren::DUO_RIO_Beheren_OnderwijsOrganisatie_V3::Berichttypen (request)::DUO_RIO_Beheren_OnderwijsOrganisatie_V3::Groep::Custom_objecten::ChoiceKenmerkwaarde::kenmerkwaardeEnumeratiewaarde"
+    },
+    {
+      "elementName": "kenmerkwaardeEnumeratiewaarde",
+      "typeName": "KenmerkwaardeEnumeratiewaarde-v01",
+      "projectName": "DUO_Service- en Berichtenboek.MASTER",
+      "workspace": "Generieke modules",
+      "stereoTypeName": null,
+      "useCase": null,
+      "location": "DUO_Service- en Berichtenboek.MASTER::DUO_Service- en Berichtenboek::DUO_Service- en Berichtenboek::Services::Registratie instellingen en opleidingen (RIO)::DUO services::RIO OnderwijsOrganisatie::Beheren::DUO_RIO_Beheren_OnderwijsOrganisatie_V4::Berichttypen (request)::DUO_RIO_Beheren_OnderwijsOrganisatie_V4::Groep::Custom_objecten::ChoiceKenmerkwaarde::kenmerkwaardeEnumeratiewaarde"
+    },
+    {
+      "elementName": "kenmerkwaardeEnumeratiewaarde",
+      "typeName": "KenmerkwaardeEnumeratiewaarde-v01",
+      "projectName": "DUO_Service- en Berichtenboek.MASTER",
+      "workspace": "Generieke modules",
+      "stereoTypeName": null,
+      "useCase": null,
+      "location": "DUO_Service- en Berichtenboek.MASTER::DUO_Service- en Berichtenboek::DUO_Service- en Berichtenboek::Services::Registratie instellingen en opleidingen (RIO)::DUO services::RIO OnderwijsOrganisatie::Beheren_Raadplegen::DUO_RIO_Beheren_Raadplegen_OnderwijsOrganisatie_V1::Berichttypen (request)::DUO_RIO_Beheren_Raadplegen_OnderwijsOrganisatie_V1::Groep::Custom_objecten::ChoiceKenmerkwaarde::kenmerkwaardeEnumeratiewaarde"
+    },
+    {
+      "elementName": "kenmerkwaardeEnumeratiewaarde",
+      "typeName": "KenmerkwaardeEnumeratiewaarde-v01",
+      "projectName": "DUO_Service- en Berichtenboek.MASTER",
+      "workspace": "Generieke modules",
+      "stereoTypeName": null,
+      "useCase": null,
+      "location": "DUO_Service- en Berichtenboek.MASTER::DUO_Service- en Berichtenboek::DUO_Service- en Berichtenboek::Services::Registratie instellingen en opleidingen (RIO)::DUO services::RIO OnderwijsOrganisatie::Raadplegen::DUO_RIO_Raadplegen_OnderwijsOrganisatie_V2::Berichttypen (request)::DUO_RIO_Raadplegen_OnderwijsOrganisatie_V2::Groep::Custom_objecten::ChoiceKenmerkwaarde::kenmerkwaardeEnumeratiewaarde"
+    },
+    {
+      "elementName": "kenmerkwaardeEnumeratiewaarde",
+      "typeName": "KenmerkwaardeEnumeratiewaarde-v01",
+      "projectName": "DUO_Service- en Berichtenboek.MASTER",
+      "workspace": "Generieke modules",
+      "stereoTypeName": null,
+      "useCase": null,
+      "location": "DUO_Service- en Berichtenboek.MASTER::DUO_Service- en Berichtenboek::DUO_Service- en Berichtenboek::Services::Registratie instellingen en opleidingen (RIO)::DUO services::RIO OnderwijsOrganisatie::Raadplegen::DUO_RIO_Raadplegen_OnderwijsOrganisatie_V3::Berichttypen (request)::DUO_RIO_Raadplegen_OnderwijsOrganisatie_V3::Groep::Custom_objecten::ChoiceKenmerkwaarde::kenmerkwaardeEnumeratiewaarde"
+    },
+    {
+      "elementName": "kenmerkwaardeEnumeratiewaarde",
+      "typeName": "KenmerkwaardeEnumeratiewaarde-v01",
+      "projectName": "DUO_Service- en Berichtenboek.MASTER",
+      "workspace": "Generieke modules",
+      "stereoTypeName": null,
+      "useCase": null,
+      "location": "DUO_Service- en Berichtenboek.MASTER::DUO_Service- en Berichtenboek::DUO_Service- en Berichtenboek::Services::Registratie instellingen en opleidingen (RIO)::DUO services::RIO OnderwijsOrganisatie::Raadplegen::DUO_RIO_Raadplegen_OnderwijsOrganisatie_V4::Berichttypen (request)::DUO_RIO_Raadplegen_OnderwijsOrganisatie_V4::Groep::Custom_objecten::ChoiceKenmerkwaarde::kenmerkwaardeEnumeratiewaarde"
+    },
+    {
+      "elementName": "waarde",
+      "typeName": "KenmerkwaardeEnumeratiewaarde-v01",
+      "projectName": "Testingmigrate REST.MASTER",
+      "workspace": "STM",
+      "stereoTypeName": null,
+      "useCase": null,
+      "location": "Testingmigrate REST.MASTER::Systemmodule::OpenAPI_REST Services::RIO Registratie Instellingen en opleidingen (REST)::LEO GUI REST test::RIO_LEO::SourceModel::waardenlijst::waarde"
+    },
+    {
+      "elementName": "waardenlijst",
+      "typeName": "KenmerkwaardeEnumeratiewaarde-v01",
+      "projectName": "Testingmigrate REST.MASTER",
+      "workspace": "STM",
+      "stereoTypeName": null,
+      "useCase": null,
+      "location": "Testingmigrate REST.MASTER::ChoiceKenmerkwaarde::waardenlijst"
+    },
+    {
+      "elementName": "waarde",
+      "typeName": "KenmerkwaardeEnumeratiewaarde-v01",
+      "projectName": "Testingmigrate REST.MASTER",
+      "workspace": "STM",
+      "stereoTypeName": null,
+      "useCase": null,
+      "location": "Testingmigrate REST.MASTER::Systemmodule::OpenAPI_REST Services::RMA::RMA GUI::Sourcemodel::waardenlijst::waarde"
+    },
+    {
+      "elementName": "operatie",
+      "typeName": "KenmerkwaardeEnumeratiewaarde-v01",
+      "projectName": "DUO_DataModel_Boek.MASTER",
+      "workspace": "Generieke modules",
+      "stereoTypeName": "Attribuut",
+      "useCase": null,
+      "location": "DUO_DataModel_Boek.MASTER::Systemmodule::DUO_DataModel_Boek::Primaire Systemen::WFT::Informatiemodel WFT-OR::Stamgegevens::Gegevenslevering::operatie"
+    },
+    {
+      "elementName": "enumeratiewaarde",
+      "typeName": "KenmerkwaardeEnumeratiewaarde-v01",
+      "projectName": "DUO_SSD_Voorbeeldapplicatie.MASTER",
+      "workspace": "Applicaties-SSD",
+      "stereoTypeName": null,
+      "useCase": null,
+      "location": "DUO_SSD_Voorbeeldapplicatie.MASTER::Systemmodule::DUO_Gegevenswoordenboek::NL:OCW:GWB:BASIS::Meta::Groep::Kenmerk::enumeratiewaarde"
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "numberOfElements": 4,
+  "elementsPerProject": [
+    {
+      "projectName": "GoGzandbak.MASTER",
+      "numberOfElements": 1
+    },
+    {
+      "projectName": "DUO_DataModel_Boek.MASTER",
+      "numberOfElements": 1
+    },
+    {
+      "projectName": "DUO_Service- en Berichtenboek.MASTER",
+      "numberOfElements": 2
+    }
+  ],
+  "elements": [
+    {
+      "elementName": "waardeType",
+      "typeName": "Datatype-v01",
+      "projectName": "GoGzandbak.MASTER",
+      "workspace": "STM",
+      "stereoTypeName": "Attribuut",
+      "useCase": null,
+      "location": "GoGzandbak.MASTER::Element::waardeType"
+    },
+    {
+      "elementName": "waardeType",
+      "typeName": "Datatype-v01",
+      "projectName": "DUO_Service- en Berichtenboek.MASTER",
+      "workspace": "Generieke modules",
+      "stereoTypeName": null,
+      "useCase": null,
+      "location": "DUO_Service- en Berichtenboek.MASTER::DUO_Service- en Berichtenboek::DUO_Service- en Berichtenboek::ClientServices::ABL-AanvragenBeslissenLerarenbeurs::ABL_AanvragenBeslissenLerarenbeurs::WebformGroep::Gegevenselement::waardeType"
+    },
+    {
+      "elementName": "waardeType",
+      "typeName": "Datatype-v01",
+      "projectName": "DUO_Service- en Berichtenboek.MASTER",
+      "workspace": "Generieke modules",
+      "stereoTypeName": null,
+      "useCase": null,
+      "location": "DUO_Service- en Berichtenboek.MASTER::DUO_Service- en Berichtenboek::DUO_Service- en Berichtenboek::Services::ABL_AanvragenBeslissenLerarenbeurs::ABL_CORE_AanvragenBeslissenLerarenbeurs::WebformGroep::Gegevenselement::waardeType"
+    },
+    {
+      "elementName": "waardeType",
+      "typeName": "Datatype-v01",
+      "projectName": "DUO_DataModel_Boek.MASTER",
+      "workspace": "Generieke modules",
+      "stereoTypeName": "Attribuut",
+      "useCase": null,
+      "location": "DUO_DataModel_Boek.MASTER::Systemmodule::DUO_DataModel_Boek::Primaire Systemen::ABL_Core_Lerarenbeurs Datamodel::ABL_LDM_CORE Lerarenbeurs::ABL_Webform::Element::waardeType"
+    }
+  ]
+}
